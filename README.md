@@ -8,7 +8,7 @@ This project is a collection of microservices built using Spring Boot and Spring
 - **order-service**: Handles order creation and management.
 - **inventory-service**: Tracks inventory and stock levels.
 - **discovery-server**: Service discovery and registry using Eureka.
-- **api-gateway**: Gateway service for routing and filtering API requests.
+- **api-gateway**: Gateway service for routing and filtering API requests. Works as reverse proxy and load balancer too.
 - **notification-service**: Sends notifications for order events.
 
 ## Technologies Used
