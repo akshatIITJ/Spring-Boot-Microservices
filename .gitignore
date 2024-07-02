@@ -1,0 +1,6 @@
+/postgres-order/
+/postgres-inventory/
+/mysql_keycloak_data/
+/mongo-data/
+/grafana/
+/.idea/

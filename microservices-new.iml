@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_dynshmem" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_notify" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_twophase" />
+      <excludeFolder url="file://$MODULE_DIR$/grafana/csv" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_dynshmem" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_notify" />
+      <excludeFolder url="file://$MODULE_DIR$/grafana/png" />
+      <excludeFolder url="file://$MODULE_DIR$/grafana/storage" />
+      <excludeFolder url="file://$MODULE_DIR$/grafana/plugins" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_tblspc" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_wal/archive_status" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_commit_ts" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_logical/mappings" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_logical/snapshots" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_replslot" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_serial" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_logical/mappings" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_logical/snapshots" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_tblspc" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_twophase" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_snapshots" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_stat_tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_wal/archive_status" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_commit_ts" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_snapshots" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-inventory/pg_stat_tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_replslot" />
+      <excludeFolder url="file://$MODULE_DIR$/postgres-order/pg_serial" />
+    </content>
+  </component>
+</module>
