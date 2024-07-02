@@ -16,16 +16,13 @@ This project is a collection of microservices built using Spring Boot and Spring
 - **Spring Boot**: Simplifies the development of production-ready Spring applications.
 - **Spring Cloud**: Provides tools and frameworks for building robust cloud-native applications.
 - **Jib Maven Plugin**: Streamlines Docker image creation and deployment.
-
-## Getting Started
-
-To get a local copy up and running follow these simple steps:
+- etc. etc, that's a long list bro
 
 ### Prerequisites
 
 - Java 17 (JDK 17 or later)
-- Maven 3.6+ (for building and dependency management)
-- Docker (optional, for running services in containers)
+- Maven Build system (for building and dependency management)
+- Docker (for running services in containers)
 
 Contributions are welcome! Fork the repository, create a branch, make your changes, and submit a pull request.
 
